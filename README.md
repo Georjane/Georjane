@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project.
 - 🤔 I’m passionate about programming and I love travelling, reading and dancing as well.
 - 💬 Ask me about anything productive.
-- 📫 Let's connect on [LinkedIn](www.linkedin.com/in/witah-georjane) and on [Twitter](https://twitter.com/WittyJany)
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/witah-georjane/) and on [Twitter](https://twitter.com/WittyJany)
 - 😄 Pronouns: I am a She/Her
 - ⚡ Fact about me: I wrote my first line of code in 2020 and I got a Front-End Dev job offer after 3 months. Hardwork pays!
 
