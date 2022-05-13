@@ -1,7 +1,7 @@
 ### Hi there, 👋 You can call me Jane!
 
-- 🔭 I’m currently a full time student at Microverse Inc.
-- 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, JavaScript and React) and Cloud Computing, AWS.
+- 🔭 I’m currently looking for new opportunities to explore.
+- 🌱 I’m a Full Stack Web Development (Ruby on Rails, JavaScript and React) and Cloud Computing, AWS.
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project.
 - 🤔 I’m passionate about programming and I love travelling, reading and dancing as well.
 - 💬 Ask me about anything productive.
