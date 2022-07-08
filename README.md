@@ -1,7 +1,7 @@
 ### Hi there, 👋 You can call me Jane!
 
 - 🔭 I’m currently looking for new opportunities to explore.
-- 🌱 I’m a Full Stack Web Development (Ruby on Rails, JavaScript and React) and Cloud Computing, AWS.
+- 🌱 I’m a Full Stack Web Development (NodeJS, Ruby on Rails, JavaScript, ReactJS and PHP) and Cloud Computing, AWS.
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project.
 - 🤔 I’m passionate about programming and I love travelling, reading and dancing as well.
 - 💬 Ask me about anything productive.
